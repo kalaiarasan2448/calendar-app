@@ -16,12 +16,6 @@ A simple, user-friendly calendar web application built with **React**, **Vite**,
 
 ---
 
-## 📸 Preview
-
-![Calendar UI Screenshot](preview.png) <!-- optional: replace with actual screenshot path or remove -->
-
----
-
 ## 🛠 Tech Stack
 
 - ⚛️ React
@@ -32,4 +26,14 @@ A simple, user-friendly calendar web application built with **React**, **Vite**,
 ---
 
 ## 📁 Folder Structure
+calendar-app/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── App.css
+│ ├── main.jsx
+│ └── events.json
+├── index.html
+├── vite.config.mjs
+└── package.json
 
